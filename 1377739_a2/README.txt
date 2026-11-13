@@ -1,8 +1,3 @@
-Assignment: DayPlanner A2
-Name: Liam Symons
-UserID: 1377739
-Course: CIS*2430
-
 1. Program Summary
 ------------------------------
 DayPlanner is a java tool which utilizes an ArrayList and user inputs
